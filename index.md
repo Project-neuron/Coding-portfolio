@@ -17,25 +17,52 @@ Express to handle the heavylifting for routing and serverside logic, ejs for the
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Python machine learning project](): 
+
+
+
+### Project description
+A class project where we used python to classify songs  
+
+#### Project status: [Complete] 
+#### Project type:   [Class assigned project] 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## [Personal google calendar utility](https://github.com/Project-neuron/Node.js-project): 
+
+
+
+### Project description
+ 
+
+#### Project status: [Under development] 
+#### Project type:   [Personal utility] 
 
 ---
 
-### Category Name 2
+## [Java final project](https://github.com/Project-neuron/Node.js-project): 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+
+### Project description
+Software engineering group project  
+
+#### Project status: [Complete] 
+#### Project type:   [Group project] 
 
 ---
+## [C++ final project](https://github.com/Project-neuron/Node.js-project): 
 
+
+
+### Project description
+A learning project for node js. In this project I built a sample full stack website with a node backend. 
+I used this as a learning opportunity to work on my backend server side skills. 
+I used Visual studio for the IDE, Sequilize for the database interface with mySQL as the database.  
+Express to handle the heavylifting for routing and serverside logic, ejs for the dynamic injection of data and manipulation of the HTML front end. CSS for styling.  
+
+#### Project status: [Complete] 
+#### Project type:   [Group Project] 
 
 
 
