@@ -12,8 +12,8 @@ I used this as a learning opportunity to work on my backend server side skills.
 I used Visual studio for the IDE, Sequilize for the database interface with mySQL as the database.  
 Express to handle the heavylifting for routing and serverside logic, ejs for the dynamic injection of data and manipulation of the HTML front end. CSS for styling.  
 
-# Project status: [Under development] 
-# Project type:   [Self taught investigation] 
+#### Project status: [Under development] 
+#### Project type:   [Self taught investigation] 
 
 
 ---
