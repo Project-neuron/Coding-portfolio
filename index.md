@@ -2,7 +2,7 @@
 
 ---
  
-## [Node learning project](/https://github.com/Project-neuron/Node.js-project): 
+## [Node learning project](https://github.com/Project-neuron/Node.js-project): 
 
 
 
