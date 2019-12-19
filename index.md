@@ -5,64 +5,56 @@
 ## [Node learning project](https://github.com/Project-neuron/Node.js-project): 
 
 
-
 ### Project description
 A learning project for node js. In this project I built a sample full stack website with a node backend. 
 I used this as a learning opportunity to work on my backend server side skills. 
 I used Visual studio for the IDE, Sequilize for the database interface with mySQL as the database.  
 Express to handle the heavylifting for routing and serverside logic, ejs for the dynamic injection of data and manipulation of the HTML front end. CSS for styling.  
 
-#### Project status: [Under development] 
-#### Project type:   [Self taught investigation] 
-
-
----
-## [Python machine learning project](): 
-
-
-
-### Project description
-A class project where we used python to classify songs  
-
-#### Project status: [Complete] 
-#### Project type:   [Class assigned project] 
+#### Primary language: [Javascript] 
+#### Project status:   [Under development] 
+#### Project type:     [Self taught investigation] 
 
 ---
-## [Personal google calendar utility](https://github.com/Project-neuron/Node.js-project): 
+
+## [Auto-scheduling Google calendar utility](https://github.com/Project-neuron/CalendarUtility): 
 
 
+### Project description 
+I built an auto scheduling utility in javascript to better manage my tasks in google calendar. 
+I wanted to prototype an application idea while also bulding in extra utility into goole calendar. 
+I used google app scripts, google scheets api, google calendar api and javascript to tie everything together. 
 
-### Project description
  
-
-#### Project status: [Under development] 
-#### Project type:   [Personal utility] 
+#### Primary language: [Javascript] 
+#### Project status:   [Under development] 
+#### Project type:     [Personal utility] 
 
 ---
 
-## [Java final project](https://github.com/Project-neuron/Node.js-project): 
-
+## [Java final project](https://github.com/AdamKruschwitz/FootballApp): 
 
 
 ### Project description
-Software engineering group project  
+Software engineering group project where we applied the principals of test driven development 
+Agile concepts, continous integration as well as software engineering principals. 
+We used Circle ci for continous integration, Maven for project bundling
 
-#### Project status: [Complete] 
-#### Project type:   [Group project] 
+#### Primary language: [Java] 
+#### Project status:   [Adding comments] 
+#### Project type:     [Group project] 
 
 ---
-## [C++ final project](https://github.com/Project-neuron/Node.js-project): 
-
+## [C++ final project](https://github.com/Project-neuron/COMP220-Final): 
 
 
 ### Project description
-A learning project for node js. In this project I built a sample full stack website with a node backend. 
-I used this as a learning opportunity to work on my backend server side skills. 
-I used Visual studio for the IDE, Sequilize for the database interface with mySQL as the database.  
-Express to handle the heavylifting for routing and serverside logic, ejs for the dynamic injection of data and manipulation of the HTML front end. CSS for styling.  
+Software engineering project to learn C++. 
+Primarily learning how to use C++ and it's unique requirements 
 
-#### Project status: [Complete] 
-#### Project type:   [Group Project] 
+#### Primary language: [C++]
+#### Project status:   [Complete] 
+#### Project type:     [Group Project] 
 
 
 
