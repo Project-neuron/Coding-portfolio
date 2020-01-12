@@ -56,6 +56,20 @@ Primarily learning how to use C++ and it's unique requirements
 #### Project status:   [Complete] 
 #### Project type:     [Group Project] 
 
+---
+## [Python Music classification Final project](https://github.com/Project-neuron/Music-genre-classification-project): 
+
+
+### Project description
+A final project for my senior Machine learning course. 
+In it I used logistic regression as well as Support vector Machine algorithms to classify  
+7868 training tracks into 147 genres with a 88% accuracy. 
+
+Learned the findamentals of machine learning and the contraints it has in terms of how it can be used. 
+
+#### Primary language: [Python]
+#### Project status:   [Complete] 
+#### Project type:     [Solo Project] 
 
 
 ---
