@@ -30,7 +30,11 @@ I used google app scripts, google scheets api, google calendar api and javascrip
 #### Primary language: [Javascript] 
 #### Project status:   [Under development] 
 #### Project type:     [Personal utility] 
-#### View status:      [Private] 
+#### View status:      [Private]  
+
+--- 
+
+![Image](/images/Screenshot_20210625-213551.jpg)
 
 ---
 
@@ -47,6 +51,10 @@ Currently working on building the html pages before I move on to the node backen
 #### Project status:   [In development] 
 #### Project type:     [Personal project]  
 #### View status:      [Private] 
+
+---  
+
+![Image](/images/personalProjectWebsite.PNG)
 
 ---
 ## [Personal finance app ](https://github.com/Project-neuron/Personal-finance-app): 
