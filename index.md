@@ -54,7 +54,7 @@ Currently working on building the html pages before I move on to the node backen
 
 ---  
 
-![Image](/images/personalProjectWebsite.PNG)
+![Image](/images/personalWebsiteScreenshot.PNG)
 
 ---
 ## [Personal finance app ](https://github.com/Project-neuron/Personal-finance-app): 
