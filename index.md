@@ -29,14 +29,14 @@ I wanted to prototype an application idea while also bulding in extra utility in
 ---
 <table>
   <tr>
-    <td><img src="/images/Google_Apps_Script.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td><img src="/images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
     <td><img src="/images/Google_Apps_Script.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td><img src="/images/Google_Apps_Script.png"  width="100"  height="100" style="border-radius:50%"/></td>
   </tr> 
  <tr>
      <td>Apps scripts</td>
      <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+     <td></td>
  </tr>
 </table>
 
