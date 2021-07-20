@@ -24,7 +24,8 @@ Express to handle the heavylifting for routing and serverside logic, ejs for the
 ### Project description 
 I built an auto scheduling utility in javascript to better manage my tasks in google calendar. 
 I wanted to prototype an application idea while also bulding in extra utility into goole calendar. 
-I used google app scripts, google scheets api, google calendar api and javascript to tie everything together. 
+
+<img src="/images/Google_Apps_Script.png" alt="drawing" width="100"  height="100" style="border-radius:50%"/>
 
  
 #### Primary language: [Javascript] 
