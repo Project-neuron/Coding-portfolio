@@ -1,22 +1,6 @@
 # Coding Portfolio
 
 ---
- 
-## [Node learning project](https://github.com/Project-neuron/Node.js-project): 
-
-
-### Project description
-A learning project for node js. In this project I built a sample full stack website with a node backend. 
-I used this as a learning opportunity to work on my backend server side skills. 
-I used Visual studio for the IDE, Sequilize for the database interface with mySQL as the database.  
-Express to handle the heavylifting for routing and serverside logic, ejs for the dynamic injection of data and manipulation of the HTML front end. CSS for styling.  
-
-#### Primary language: [Javascript] 
-#### Project status:   [No longer in development] 
-#### Project type:     [Self taught investigation] 
-#### View status:      [Public] 
-
----
 
 ## [Auto-scheduling Google calendar utility](https://github.com/Project-neuron/CalendarUtility): 
 
@@ -25,6 +9,7 @@ Express to handle the heavylifting for routing and serverside logic, ejs for the
 I wanted a way that I could easily capture the tasks I would have to do on a day to day basis so that I wouldn't have to remember to do them later. I also wanted a way that I could automate the creation of calendar events and the scheduling on them to the appropriate days. This application was born from that need. 
 
 It works well enough but I am planning an upgrade to a web assembly application with a firebase back end. The more developer friendly environments will allow me to build in more features and make debugging less confusing. 
+ 
 
 ### Project technologies 
 ---
@@ -77,7 +62,6 @@ It works well enough but I am planning an upgrade to a web assembly application 
     <td><img src="images/HTML.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized HTML for basic structure of the user interface for the time tracking aspect of the application</td>
   </tr> 
-  <tr><\tr>
   <tr>
      <td>Css</td>
      <td>Description</td>
@@ -86,7 +70,6 @@ It works well enough but I am planning an upgrade to a web assembly application 
     <td><img src="images/css.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized css for basic styling of the user interface for the time tracking aspect of the application</td>
   </tr>
-  <tr><\tr>
   <tr>
      <td>Google calendar</td>
      <td>Description</td>
