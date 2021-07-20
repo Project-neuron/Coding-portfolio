@@ -30,11 +30,15 @@ It works well enough but I am planning an upgrade to a web assembly application 
 ---
 <table>
   <tr>
+     <td>Apps scripts</td>
+     <td>Description</td>
+ </tr>
+  <tr>
     <td><img src="images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized the Apps scripts framework built into google cloud platform to compile, build, upload, and deploy the Code for my prototype</td>
   </tr> 
- <tr>
-     <td>Apps scripts</td>
+  <tr>
+     <td>Google sheets</td>
      <td>Description</td>
  </tr> 
   <tr>
@@ -42,7 +46,7 @@ It works well enough but I am planning an upgrade to a web assembly application 
     <td>Leveraging apps scripts API connection to google sheets, allowed me to use google sheets as my datastore to read and write in information</td>
   </tr> 
  <tr>
-     <td>Google sheets</td>
+     <td>App Script Triggers</td>
      <td>Description</td>
  </tr> 
  <tr>
@@ -50,34 +54,29 @@ It works well enough but I am planning an upgrade to a web assembly application 
     <td>Utilized google cloud platforms built in function triggers to schedule code runs to automatically update data, and peform scheduled tasks</td>
   </tr> 
  <tr>
-     <td>App Script Triggers</td>
+     <td>Google forms</td>
      <td>Description</td>
  </tr> 
- 
  <tr>
     <td><img src="images/Forms.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized a google form for data entry that was then organzied into the google sheets by a scheduled task function</td>
   </tr> 
- <tr>
-     <td>Google forms</td>
+  <tr>
+     <td>JavaScript</td>
      <td>Description</td>
- </tr> 
+  </tr> 
   <tr>
     <td><img src="images/Javascript.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized Javascript in an object oriented way to handle the logic of the application</td>
   </tr> 
- <tr>
-     <td>JavaScript</td>
+  <tr>
+     <td>HTML</td>
      <td>Description</td>
- </tr> 
- <tr>
+  </tr>
+  <tr>
     <td><img src="images/HTML.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized HTML for basic structure of the user interface for the time tracking aspect of the application</td>
   </tr> 
- <tr>
-     <td>HTML</td>
-     <td>Description</td>
- </tr>
   <tr><\tr>
   <tr>
      <td>Css</td>
