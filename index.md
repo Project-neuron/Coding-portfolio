@@ -1,7 +1,7 @@
 # Coding Portfolio
 
 
-## [Auto-scheduling Google calendar utility](https://github.com/Project-neuron/CalendarUtility): 
+## [Auto-scheduling Google calendar utility]: 
 
 
 ### Project description 
@@ -75,7 +75,7 @@ It works well enough but I am planning an upgrade to a web assembly application 
   </tr> 
   <tr>
     <td><img src="images/calendar.png"  width="100"  height="100" style="border-radius:50%"/></td>
-    <td>Utilized the google calendar API along with apps scripts functions to translate the data entries into calendar events with automated shcheduling handled by triggers      of nested functions</td>
+    <td>Utilized the google calendar API along with apps scripts functions to translate the data entries into calendar events with automated scheduling handled by triggers      of nested functions</td>
   </tr> 
  
  
@@ -89,8 +89,18 @@ It works well enough but I am planning an upgrade to a web assembly application 
 #### View status:      [Private]  
 
 --- 
-
-<img src="/images/Screenshot_20210625-213551.jpg" alt="drawing"  height="1000"/>
+<table>
+ <tr>
+     <td>Time tracking UI</td>
+     <td>Google forms task capture</td>
+     <td>Google forms task capture</td>
+ </tr> 
+ <tr>
+    <td><img src="images/Screenshot_20210625-213551.jpg" alt="drawing"  height="1000"/></td>
+    <td><img src="images/GoogleForms.PNG" alt="drawing"  height="1000"/></td>
+    <td><img src="images/GoogleSheets.PNG" alt="drawing"  height="1000"/></td>
+ </tr> 
+</table>
 
 ---
 
