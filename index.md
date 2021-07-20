@@ -30,7 +30,7 @@ It works well enough but I am planning an upgrade to a web assembly application 
 ---
 <table>
   <tr>
-    <td><img src="/Coding-portfolio/images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td><img src="images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized the Apps scripts framework built into google cloud platform to compile, build, upload, and deploy the Code for my prototype</td>
   </tr> 
  <tr>
