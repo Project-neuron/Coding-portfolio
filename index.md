@@ -62,7 +62,7 @@ I wanted to prototype an application idea while also bulding in extra utility in
      <td>Description</td>
  </tr> 
   <tr>
-    <td><img src="/images/JavaScript.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td><img src="/images/Javascript.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized Javascript in an object oriented way to handle the logic of the application</td>
   </tr> 
  <tr>
