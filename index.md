@@ -30,7 +30,6 @@ I wanted to prototype an application idea while also bulding in extra utility in
 <table>
   <tr>
     <td><img src="/images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
-    <td></td>
     <td>Utilized the Apps scripts framework built into google cloud platform to compile, build, upload, and deploy the Code for my prototype</td>
   </tr> 
  <tr>
