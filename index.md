@@ -96,9 +96,9 @@ It works well enough but I am planning an upgrade to a web assembly application 
      <td>Google forms task capture</td>
  </tr> 
  <tr>
-    <td><img src="images/Screenshot_20210625-213551.jpg" alt="drawing"  height="1000"/></td>
-    <td><img src="images/GoogleForms.PNG" alt="drawing"  height="1000"/></td>
-    <td><img src="images/GoogleSheets.PNG" alt="drawing"  height="1000"/></td>
+    <td><img src="images/Screenshot_20210625-213551.jpg" alt="drawing" /></td>
+    <td><img src="images/GoogleForms.PNG" alt="drawing"  /></td>
+    <td><img src="images/GoogleSheets.PNG" alt="drawing" /></td>
  </tr> 
 </table>
 
