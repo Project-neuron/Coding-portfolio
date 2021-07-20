@@ -101,8 +101,6 @@ It works well enough but I am planning an upgrade to a web assembly application 
 ---
  
 
- 
-#### Primary language: [Javascript] 
 #### Project status:   [Under development] 
 #### Project type:     [Personal utility] 
 #### View status:      [Private]  
