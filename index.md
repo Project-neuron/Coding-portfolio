@@ -36,14 +36,65 @@ I wanted to prototype an application idea while also bulding in extra utility in
      <td>Apps scripts</td>
      <td>Description</td>
  </tr> 
-   <tr>
-    <td><img src="/images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
-    <td>Utilized the Apps scripts framework built into google cloud platform to compile, build, upload, and deploy the Code for my prototype</td>
+  <tr>
+    <td><img src="/images/Sheets.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Leveraging apps scripts API connection to google sheets, allowed me to use google sheets as my datastore to read and write in information</td>
   </tr> 
  <tr>
-     <td>Apps scripts</td>
+     <td>Google sheets</td>
      <td>Description</td>
- </tr>
+ </tr> 
+ <tr>
+    <td><img src="/images/AppScriptTriggers.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized google cloud platforms built in function triggers to schedule code runs to automatically update data, and peform scheduled tasks</td>
+  </tr> 
+ <tr>
+     <td>App Script Triggers</td>
+     <td>Description</td>
+ </tr> 
+ 
+ <tr>
+    <td><img src="/images/Forms.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized a google form for data entry that was then organzied into the google sheets by a scheduled task function</td>
+  </tr> 
+ <tr>
+     <td>Google forms</td>
+     <td>Description</td>
+ </tr> 
+  <tr>
+    <td><img src="/images/JavaScript.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized Javascript in an object oriented way to handle the logic of the application</td>
+  </tr> 
+ <tr>
+     <td>JavaScript</td>
+     <td>Description</td>
+ </tr> 
+ <tr>
+    <td><img src="/images/HTML.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized HTML for basic structure of the user interface for the time tracking aspect of the application</td>
+  </tr> 
+ <tr>
+     <td>HTML</td>
+     <td>Description</td>
+ </tr> 
+ <tr>
+    <td><img src="/images/css.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized css for basic styling of the user interface for the time tracking aspect of the application</td>
+  </tr> 
+ <tr>
+     <td>Css</td>
+     <td>Description</td>
+ </tr>  
+  <tr>
+    <td><img src="/images/calendar.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized the google calendar API along with apps scripts functions to translate the data entries into calendar events with automated shcheduling handled by triggers      of nested functions</td>
+  </tr> 
+ <tr>
+     <td>Google calendar</td>
+     <td>Description</td>
+ </tr> 
+ 
+ 
 </table>
 
 ---
