@@ -34,7 +34,7 @@ I used google app scripts, google scheets api, google calendar api and javascrip
 
 --- 
 
-![Image](/images/Screenshot_20210625-213551.jpg)
+<img src="/images/Screenshot_20210625-213551.jpg" alt="drawing" width="200" height="200"/>
 
 ---
 
