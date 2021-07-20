@@ -22,8 +22,9 @@ Express to handle the heavylifting for routing and serverside logic, ejs for the
 
 
 ### Project description 
-I built an auto scheduling utility in javascript to better manage my tasks in google calendar. 
-I wanted to prototype an application idea while also bulding in extra utility into goole calendar.  
+I wanted a way that I could easily capture the tasks I would have to do on a day to day basis so that I wouldn't have to remember to do them later. I also wanted a way that I could automate the creation of calendar events and the scheduling on them to the appropriate days. This application was born from that need. 
+
+It works well enough but I am planning an upgrade to a web assembly application with a firebase back end. The more developer friendly environments will allow me to build in more features and make debugging less confusing. 
 
 ### Project technologies 
 ---
