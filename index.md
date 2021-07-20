@@ -1,6 +1,5 @@
 # Coding Portfolio
 
----
 
 ## [Auto-scheduling Google calendar utility](https://github.com/Project-neuron/CalendarUtility): 
 
