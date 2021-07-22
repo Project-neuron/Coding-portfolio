@@ -83,7 +83,7 @@ It works well enough but I am planning an upgrade to a web assembly application 
      <td>Description</td>
   </tr> 
   <tr>
-    <td><img src="images/GitHub-logo.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td><img src="images/github.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized Github for version control, Github projects for project task management, Github issues to create tasks and to-dos for the project</td>
   </tr> 
  
@@ -200,7 +200,7 @@ Refined my approach to code organization comments and the use of github in the p
      <td>Description</td>
   </tr> 
   <tr>
-    <td><img src="images/GitHub-logo.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td><img src="images/github.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized Github for version control, Github projects for project task management, Github issues to create tasks and to-dos for the project</td>
   </tr> 
  
