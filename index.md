@@ -129,7 +129,81 @@ A personal website that I am building as a portfolio piece.
 When finished it will be a node backend inside of an containerized instance of docker. 
 I hope to have it hosted on a cloud provider like AWS or digital ocean. 
 I also want to build a build pipeline to automatically build test and deploy the website whenever I update it. 
-Currently working on building the html pages before I move on to the node backend.  
+Currently working on building the html pages before I move on to the node backend.   
+
+### Project technologies 
+---
+<table>
+  <tr>
+     <td>Apps scripts</td>
+     <td>Description</td>
+ </tr>
+  <tr>
+    <td><img src="images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized the Apps scripts framework built into google cloud platform to compile, build, upload, and deploy the Code for my prototype</td>
+  </tr> 
+  <tr>
+     <td>Google sheets</td>
+     <td>Description</td>
+ </tr> 
+  <tr>
+    <td><img src="images/Sheets.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Leveraging apps scripts API connection to google sheets, allowed me to use google sheets as my datastore to read and write in information</td>
+  </tr> 
+ <tr>
+     <td>App Script Triggers</td>
+     <td>Description</td>
+ </tr> 
+ <tr>
+    <td><img src="images/AppScriptTriggers.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized google cloud platforms built in function triggers to schedule code runs to automatically update data, and peform scheduled tasks</td>
+  </tr> 
+ <tr>
+     <td>Google forms</td>
+     <td>Description</td>
+ </tr> 
+ <tr>
+    <td><img src="images/Forms.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized a google form for data entry that was then organzied into the google sheets by a scheduled task function</td>
+  </tr> 
+  <tr>
+     <td>JavaScript</td>
+     <td>Description</td>
+  </tr> 
+  <tr>
+    <td><img src="images/Javascript.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized Javascript in an object oriented way to handle the logic of the application</td>
+  </tr> 
+  <tr>
+     <td>HTML</td>
+     <td>Description</td>
+  </tr>
+  <tr>
+    <td><img src="images/HTML.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized HTML for basic structure of the user interface for the time tracking aspect of the application</td>
+  </tr> 
+  <tr>
+     <td>Scss</td>
+     <td>Description</td>
+  </tr> 
+  <tr>
+    <td><img src="images/Sass.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized Scss for better css management, split each component into it's own sass file and utilized the import feature of scss to bundled it all together and traspile ito into normal css. This way I can easily go to the specific scss file for any component and only worry about that component. Also used the variables to keep from having to change the same css value multiple times.  </td>
+  </tr>  
+ 
+  <tr>
+     <td>Git hub</td>
+     <td>Description</td>
+  </tr> 
+  <tr>
+    <td><img src="images/github.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized Github for version control, Github projects for project task management, Github issues to create tasks and to-dos for the project</td>
+  </tr> 
+ 
+ 
+</table>
+
+---
 
 
 #### Primary language: [HTML/SCSS/Javascript] 
