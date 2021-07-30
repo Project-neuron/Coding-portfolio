@@ -134,34 +134,8 @@ Currently working on building the html pages before I move on to the node backen
 ### Project technologies 
 ---
 <table>
-  <tr>
-     <td>Apps scripts</td>
-     <td>Description</td>
- </tr>
-  <tr>
-    <td><img src="images/google-apps-script9275.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
-    <td>Utilized the Apps scripts framework built into google cloud platform to compile, build, upload, and deploy the Code for my prototype</td>
-  </tr> 
-  <tr>
-     <td>Google sheets</td>
-     <td>Description</td>
- </tr> 
-  <tr>
-    <td><img src="images/Sheets.png"  width="100"  height="100" style="border-radius:50%"/></td>
-    <td>Leveraging apps scripts API connection to google sheets, allowed me to use google sheets as my datastore to read and write in information</td>
-  </tr> 
- <tr>
-     <td>App Script Triggers</td>
-     <td>Description</td>
- </tr> 
- <tr>
-    <td><img src="images/AppScriptTriggers.png"  width="100"  height="100" style="border-radius:50%"/></td>
-    <td>Utilized google cloud platforms built in function triggers to schedule code runs to automatically update data, and peform scheduled tasks</td>
-  </tr> 
- <tr>
-     <td>Google forms</td>
-     <td>Description</td>
- </tr> 
+ 
+ 
  <tr>
     <td><img src="images/Forms.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized a google form for data entry that was then organzied into the google sheets by a scheduled task function</td>
