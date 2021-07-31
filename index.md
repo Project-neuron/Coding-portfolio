@@ -261,21 +261,29 @@ Refined my approach to code organization comments and the use of github in the p
 #### Project type:     [Personal project]  
 #### View status:      [Public] 
 
----
-## [Python Music classification Final project](https://github.com/Project-neuron/Music-genre-classification-project): 
+--- 
 
-
-### Project description
-A final project for my senior Machine learning course. 
-In it I used logistic regression as well as Support vector Machine algorithms to classify  
-7868 training tracks into 147 genres with a 88% accuracy. 
-
-Learned the findamentals of machine learning and the contraints it has in terms of how it can be used. 
-
-#### Primary language: [Python]
-#### Project status:   [Complete] 
-#### Project type:     [Solo Project] 
-
+<table>
+ <tr>
+     <td>Purchases screen</td>
+ </tr> 
+ <tr>
+    <td><img src="images/FinanceAppMain.PNG" alt="drawing" /></td>
+ </tr> 
+ 
+ <tr> 
+  <td>Budgets Screen</td>
+ </tr>
+ <tr> 
+  <td><img src="images/FinanceAppBudget.PNG" alt="drawing"  /></td>
+ </tr>
+ <tr> 
+  <td>Credit card totals screen </td>
+ </tr>
+ <tr> 
+    <td><img src="images/FinanceAppCards.PNG" alt="drawing" /></td>
+ </tr>
+</table> 
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
