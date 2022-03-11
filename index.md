@@ -162,6 +162,14 @@ Currently working on building the html pages before I move on to the node backen
   <tr>
     <td><img src="images/github.png"  width="100"  height="100" style="border-radius:50%"/></td>
     <td>Utilized Github for version control, Github projects for project task management, Github issues to create tasks and to-dos for the project</td>
+  </tr>  
+   <tr>
+    <td><img src="images/dockerImage.jpg"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized Docker to containerize the node website image</td>
+  </tr>  
+ <tr>
+    <td><img src="images/heroku.png"  width="100"  height="100" style="border-radius:50%"/></td>
+    <td>Utilized Heroku as the backend service to host the container for the website</td>
   </tr> 
  
  
@@ -171,7 +179,7 @@ Currently working on building the html pages before I move on to the node backen
 
 
 #### Primary language: [HTML/SCSS/Javascript] 
-#### Project status:   [In development] 
+#### Project status:   [MVP stage in development] 
 #### Project type:     [Personal project]  
 #### View status:      [Private] 
 
