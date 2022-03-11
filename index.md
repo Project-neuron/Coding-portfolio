@@ -126,10 +126,10 @@ It works well enough but I am planning an upgrade to a web assembly application 
 
 ### Project description
 A personal website that I am building as a portfolio piece. 
-When finished it will be a node backend inside of an containerized instance of docker. 
-I hope to have it hosted on a cloud provider like AWS or digital ocean. 
-I also want to build a build pipeline to automatically build test and deploy the website whenever I update it. 
-Currently working on building the html pages before I move on to the node backend.   
+Currently built the MVP with basic functionality. 
+Have it containerized and hosted available through the link above. 
+Currently working on seperating the admin section from the site section adding a nosql database. 
+Also a login feature as well as creating a design system for the website before refactoring the look of it. 
 
 ### Project technologies 
 ---
