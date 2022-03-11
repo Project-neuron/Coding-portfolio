@@ -95,7 +95,6 @@ It works well enough but I am planning an upgrade to a web assembly application 
 
 #### Project status:   [Under development] 
 #### Project type:     [Personal utility] 
-#### Project link:     [Personal Website](https://codingwebsiteapp.herokuapp.com/)
 #### View status:      [Private]  
 
 --- 
@@ -123,7 +122,7 @@ It works well enough but I am planning an upgrade to a web assembly application 
 
 ---
 
-## [New personal website V2]: 
+## [New personal website V2](https://codingwebsiteapp.herokuapp.com/): 
 
 ### Project description
 A personal website that I am building as a portfolio piece. 
